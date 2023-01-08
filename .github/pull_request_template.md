@@ -2,7 +2,8 @@
 [Description here]
 
 ## Resolved ticket
-[Title here]
+# Replace "XXXX" with the resolved ticket number to reference it.
+[IA-XXXX](https://tesis-ia.atlassian.net/browse/IA-XXXX)
 
 ## Type task
 - [ ] Bug
